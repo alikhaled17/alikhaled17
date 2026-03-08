@@ -14,14 +14,12 @@
 
 <br/>
 
-<div align="center" width="200px">
+<div align="center">
 
-<code>
-<a href="https://alikhaled.vercel.app" align="center">
-  <img align="left" alt="Ali Khaled" width="35px" src="https://alikhaled.vercel.app/_next/static/media/AliLogo.158d10b9.svg" draggable="false" />
+<a href="https://alikhaled.vercel.app" >
+  <img  alt="Ali Khaled" width="35px" src="https://alikhaled.vercel.app/_next/static/media/AliLogo.158d10b9.svg" draggable="false" />
   Ali Khaled's site
 </a>
-</code>
 
 </div>
 
