@@ -14,17 +14,13 @@
 
 <br/>
 
-<div align="center">
+<div align="center" width="200px">
 
 
-
-
-
-<a href="https://alikhaled.vercel.app">
+<a href="https://alikhaled.vercel.app" align="center">
   <img align="left" alt="Ali Khaled" width="35px" src="https://alikhaled.vercel.app/_next/static/media/AliLogo.158d10b9.svg" draggable="false" />
   Ali Khaled's site
 </a>
-
 
 </div>
 
@@ -33,7 +29,7 @@
 
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > About me
 
-- <img src="https://cdn.prod.website-files.com/65b3cc40daa94fa5529af14b/65b3cc40daa94fa5529af260_favicon.png" width="20" draggable="false"> A Senior Frontend Engineer at [Asset Technology Group](https://asset-technology.com/)
+- <img src="https://asset-technology.com/wp-content/uploads/2024/12/cropped-ASSET-Logo-icn.png" width="20" draggable="false"> A Senior Frontend Engineer at [Asset Technology Group](https://asset-technology.com/)
 
 <!-- - 📖 Currently Reading: "**Frontend Architecture for Design Systems**" by [@Micah Godbolt](https://www.micahgodbolt.com/) -->
 
