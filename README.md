@@ -17,7 +17,7 @@
 <div align="center">
 
 <a href="https://alikhaled.vercel.app" >
-  <img  alt="Ali Khaled" width="35px" src="https://alikhaled.vercel.app/_next/static/media/AliLogo.158d10b9.svg" target="_blank" draggable="false" />
+  <img  alt="Ali Khaled" width="35px" src="https://alikhaled.vercel.app/_next/static/media/AliLogo.158d10b9.svg" target="blank" draggable="false" />
   Ali Khaled's site
 </a>
 
