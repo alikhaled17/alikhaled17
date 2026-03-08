@@ -22,6 +22,7 @@
 
 <a href="https://alikhaled.vercel.app">
   <img align="left" alt="Ali Khaled" width="35px" src="https://alikhaled.vercel.app/_next/static/media/AliLogo.158d10b9.svg" draggable="false" />
+  Ali Khaled's site
 </a>
 
 
